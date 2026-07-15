@@ -1,0 +1,20 @@
+.album-details {
+    padding: 30px;
+}
+
+.album-details h1 {
+    color: #1DB954;
+    margin-bottom: 10px;
+}
+
+.song {
+    background: #181818;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
+
+.song audio {
+    width: 100%;
+    margin-top: 10px;
+}

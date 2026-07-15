@@ -1,0 +1,42 @@
+.music-card {
+
+    width: 280px;
+    background-color: #181818;
+
+    border-radius: 12px;
+
+    padding: 20px;
+
+    transition: 0.3s;
+
+    cursor: pointer;
+
+}
+
+.music-card:hover {
+
+    background-color: #282828;
+
+    transform: scale(1.03);
+
+}
+
+.music-card h2 {
+
+    margin-bottom: 10px;
+
+}
+
+.music-card p {
+
+    color: #b3b3b3;
+
+    margin-bottom: 15px;
+
+}
+
+.music-card audio {
+
+    width: 100%;
+
+}

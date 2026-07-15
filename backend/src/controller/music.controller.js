@@ -51,8 +51,8 @@ async function createAlbum(req, res) {
 async function getAllmusic(req, res) {
     const musics = await musicModel
     .find()
-    .skip(1) //skip first two
-    .limit(2) // limit the no of songs
+    // .skip(1) //skip first two
+    // .limit(2) // limit the no of songs
     .populate("artist", "username email")
 
 console.log(await musicModel.find());

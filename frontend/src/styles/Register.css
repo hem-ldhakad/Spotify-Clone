@@ -1,0 +1,84 @@
+.register-container {
+    width: 100%;
+    height: 100vh;
+    background-color: #121212;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-box {
+
+    width: 420px;
+
+    background-color: #181818;
+
+    padding: 40px;
+
+    border-radius: 12px;
+
+    text-align: center;
+
+}
+
+.register-box h1 {
+
+    margin-bottom: 30px;
+
+    color: #1DB954;
+
+}
+
+.register-box input,
+.register-box select {
+
+    width: 100%;
+
+    padding: 12px;
+
+    margin-bottom: 15px;
+
+    border: none;
+
+    border-radius: 8px;
+
+}
+
+.register-box button {
+
+    width: 100%;
+
+    padding: 12px;
+
+    background-color: #1DB954;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 8px;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+}
+
+.register-box button:hover {
+
+    background-color: #18a64d;
+
+}
+
+.register-box p {
+
+    margin-top: 20px;
+
+}
+
+.register-box a {
+
+    color: #1DB954;
+
+}
