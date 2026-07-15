@@ -1,23 +1,36 @@
-# Spotify Clone - Backend
+# Spotify Clone
+A full-stack Spotify Clone built with **React, Vite, Node.js, Express, and MongoDB**. The application provides a modern music streaming interface with user authentication, album and music management, playlists, and a responsive user experience.
 
-A backend for a Spotify-inspired music streaming application built with **Node.js**, **Express.js**, and **MongoDB**. 
-It provides secure JWT authentication, role-based authorization, and RESTful APIs for managing users, songs, and albums.
+---
 
-## Features
+##  Features
 
-* JWT Authentication
-* Role-based Authorization
-* User Management
-* Music & Album CRUD APIs
-* Request Validation
-* MongoDB with Mongoose
-* Password Hashing (bcrypt)
+- User Authentication (JWT)
+- Browse and play music
+- Album management
+- Playlist management
+- User profiles
+- Responsive and modern UI
+- RESTful API integration
+- Protected routes
 
-## Tech Stack
+---
 
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* JWT
-* bcryptjs
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Vite
+- React Router
+- Axios
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- bcryptjs
+
+---
