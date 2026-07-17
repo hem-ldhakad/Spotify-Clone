@@ -1,5 +1,5 @@
 # Spotify Clone
-A full-stack Spotify Clone built with **React, Vite, Node.js, Express, and MongoDB**. The application provides a modern music streaming interface with user authentication, album and music management, playlists, and a responsive user experience.
+A full-stack Spotify Clone built with **React, Vite, Node.js, Express, and MongoDB**. The application provides a modern music streaming interface with user authentication, album and music management, playlists, and a responsive user experience..
 
 ---
 
