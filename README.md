@@ -16,7 +16,7 @@ A full-stack Spotify Clone built with **React, Vite, Node.js, Express, and Mongo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
